@@ -5,6 +5,3 @@ def no_c(my_string):
         if chr != "c" and chr != "c":
             new_string += chr
     return new_string
-
-
-
